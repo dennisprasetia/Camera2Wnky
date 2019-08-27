@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Camera 2 Wnky</string>
+    <string name="take_picture">Take picture</string>
+    <string name="go_to_camera">Open Camera</string>
+    <string name="go_to_video">Record Video</string>
+    <string name="text_counter">00:00</string>
+
+    <string name="dsc_cancel">Button for cancel video</string>
+    <string name="dsc_accept">Button for accept video</string>
+    <string name="dsc_capture">Button for capture photos/video</string>
+</resources>
